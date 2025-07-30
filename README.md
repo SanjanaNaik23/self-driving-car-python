@@ -36,7 +36,7 @@ A self-driving car simulation built in Python using Pygame. The car navigates ro
    pip install pygame
 
 3.Download or clone this repository:
-   git clone https://github.com/yourusername/self-driving-car.git
+   git clone https://github.com/SanjanaNaik23/self-driving-car.git
 
 4.Navigate to the project folder and run:
     python car_simulation.py
